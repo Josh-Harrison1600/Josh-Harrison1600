@@ -1,7 +1,7 @@
 Hi 👋 My name is Josh
 ============================================================================================================================
 
-Java & React Developer
+Full-Stack Developer
 ----------------------
 
 *   🌍  I'm based in Moncton, New Brunswick, Canada
